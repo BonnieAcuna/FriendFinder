@@ -233,7 +233,7 @@
 		</form>
 		<br>
 		<br>
-		<!-- Modal -->
+		
 		<div id="friend-modal" class="modal" tabindex="-1" role="dialog">
 				<div class="modal-dialog" role="document">
 				  <div class="modal-content">
@@ -253,11 +253,11 @@
 				  </div>
 				</div>
 			  </div>
-				<!-- End Modal -->
+				
 				<footer class="footer">
 					<div class="container">
 						<p><a href="/api/friends">API Friends List</a>
-							| <a href="https://github.com/bonnieacuna/friendfinder">Github Repo</a></p>
+							| <a href="https://github.com/BonnieAcuna/friendfinder">Github Repo</a></p>
 					</div>
 				</footer>
 			</div>
@@ -294,8 +294,7 @@
 					$.post("/api/friends", newFriend)
 						.then(function (data) {
 							console.log(data);
-							// let friendName = '<h4>' + data.name + '<h4>';
-							// let friendPic = '<img width="300px" src=' + data.photo + '>';
+							
 							$('#friendName').text(data.name);
 							$('#friendImg').attr("src", data.photo);
 							$('#friend-modal').modal("show");
