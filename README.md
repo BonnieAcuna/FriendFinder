@@ -17,10 +17,10 @@
 
 # Go to this link
 
-[Video](https://drive.google.com/file/d/1KifLlA1vJLYuhWTyrg2ohYwvF8bC-svp/view)
+[Video](https://drive.google.com/file/d/1KifLlA1vJLYuhWTyrg2ohYwvF8bC-svp/view)-Video of app working in Node.
 
-[App](https://bonnieacuna.github.io/FriendFinder/)
+[App](https://bonnieacuna.github.io/FriendFinder/)-Link to app in browser.
 
 # Portfolio
 
-[Portfolio](https://bonnieacuna.github.io/Updated-Portfolio/)
+[Portfolio](https://bonnieacuna.github.io/Updated-Portfolio/)-Updated Portfolio
