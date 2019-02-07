@@ -17,7 +17,8 @@
 
 # Go to this link
 
-[Link](https://drive.google.com/file/d/1KifLlA1vJLYuhWTyrg2ohYwvF8bC-svp/view)
+[Video](https://drive.google.com/file/d/1KifLlA1vJLYuhWTyrg2ohYwvF8bC-svp/view)
+[App](https://bonnieacuna.github.io/FriendFinder/)
 
 # Portfolio
 
